@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twixt", "Twixt\Twixt.csproj", "{F8601873-311F-4505-B0C5-BC9695546089}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwixtVisuals", "TwixtVisuals\TwixtVisuals.csproj", "{C86DF684-288F-4790-BBE2-CA1B78436D71}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwixtLogic", "TwixtLogic\TwixtLogic.csproj", "{73966051-EF5A-4098-824D-8F97A08364A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8601873-311F-4505-B0C5-BC9695546089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8601873-311F-4505-B0C5-BC9695546089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8601873-311F-4505-B0C5-BC9695546089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8601873-311F-4505-B0C5-BC9695546089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86DF684-288F-4790-BBE2-CA1B78436D71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86DF684-288F-4790-BBE2-CA1B78436D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86DF684-288F-4790-BBE2-CA1B78436D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86DF684-288F-4790-BBE2-CA1B78436D71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73966051-EF5A-4098-824D-8F97A08364A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73966051-EF5A-4098-824D-8F97A08364A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73966051-EF5A-4098-824D-8F97A08364A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73966051-EF5A-4098-824D-8F97A08364A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
